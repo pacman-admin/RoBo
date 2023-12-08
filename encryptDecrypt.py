@@ -107,7 +107,7 @@ while True:
                     with open(f"{writePath}/my.key", 'wb') as dKeyF:
                         dKeyF.write(key)
                     sleep(0.1)
-                    print("Key sucessfully saved as default")
+                    print("Key successfully saved as default")
                     continue
                 else:
                     raise Exception("You didn't enter 'n' or 'y'")
