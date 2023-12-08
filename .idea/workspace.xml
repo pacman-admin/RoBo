@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb74a94-9509-4179-abf4-ab3ce92fd30e" name="Changes" comment="Added files for the first time">
-      <change afterPath="$PROJECT_DIR$/encryptDecrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="9eb74a94-9509-4179-abf4-ab3ce92fd30e" name="Changes" comment="Creating new RoBo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EncodeDecode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoBo.py" beforeDir="false" afterPath="$PROJECT_DIR$/RoBo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.EncodeDecode.executor": "Run",
-    "Python.RoBo.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.robo.py about.executor": "Run",
-    "Python.robo.py.executor": "Run",
-    "Python.sudoku.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.EncodeDecode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RoBo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robo.py about.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="robo.py" type="PythonConfigurationType" factoryName="Python">
       <module name="RoBo" />
@@ -106,12 +103,37 @@
       <option name="project" value="LOCAL" />
       <updated>1701975174750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating new RoBo">
+      <option name="closed" value="true" />
+      <created>1702045850550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702045850550</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating new RoBo">
+      <option name="closed" value="true" />
+      <created>1702045857869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702045857869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating new RoBo">
+      <option name="closed" value="true" />
+      <created>1702046286811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702046286811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added files for the first time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files for the first time" />
+    <MESSAGE value="Creating new RoBo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating new RoBo" />
   </component>
 </project>

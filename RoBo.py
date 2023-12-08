@@ -31,11 +31,12 @@ def credits():
 
 
 def about():
-    print('''Robo was created by Edison Wang and Langdon Staab when they were in grade 7.
-It was our first coding project and our first adventure into the world of python.
+    print('''\nRobo was created by Edison Wang and Langdon Staab when they were in grade 7.
+It was our first coding project and our first adventure into the world of Python.
 The first program was Cal, a command line calculator(with limited functionality in hindsight).
 Our next program was root, a square root calculator built off the concept of the broken
-Processing.JS one on hatchcoding.com.''')
+Processing.JS one on hatchcoding.com.
+P.S. The greatest python book of all time is \x1B[3mPython Crash Course\x1B[0m by Eric Matthes\n''')
 
 
 '''def ():
